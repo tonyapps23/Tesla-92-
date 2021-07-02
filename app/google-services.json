@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232439757456",
+    "project_id": "muskpl",
+    "storage_bucket": "muskpl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232439757456:android:82c99067d3be2d5fcc7615",
+        "android_client_info": {
+          "package_name": "com.musks.musktesla_xpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232439757456-4oi1r88m3lsbq9tvtbis295ghdad1nd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtDBQwPVC4EQDs9N-7b9Vr6gVRPMe_CUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232439757456-4oi1r88m3lsbq9tvtbis295ghdad1nd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
